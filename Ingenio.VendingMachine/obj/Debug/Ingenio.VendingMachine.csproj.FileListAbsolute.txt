@@ -1,0 +1,15 @@
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Ingenio.VendingMachine.exe.config
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Ingenio.VendingMachine.csprojResolveAssemblyReference.cache
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Ingenio.VendingMachine.Infrastructure.Resources.resources
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Ingenio.VendingMachine.csproj.GenerateResource.Cache
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Ingenio.VendingMachine.exe
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Ingenio.VendingMachine.pdb
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Ingenio.VendingMachine.exe
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Ingenio.VendingMachine.pdb
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\bin\Debug\Ingenio.VendingMachine.exe.config
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\obj\Debug\Ingenio.VendingMachine.exe
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\obj\Debug\Ingenio.VendingMachine.pdb
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\bin\Debug\Ingenio.VendingMachine.exe
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\bin\Debug\Ingenio.VendingMachine.pdb
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\obj\Debug\Ingenio.VendingMachine.Infrastructure.Resources.resources
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine\obj\Debug\Ingenio.VendingMachine.csproj.GenerateResource.Cache

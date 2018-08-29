@@ -1,0 +1,7 @@
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\bin\Debug\Ingenio.VendingMachine.Tests.dll
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\bin\Debug\Ingenio.VendingMachine.Tests.pdb
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\obj\Debug\Ingenio.VendingMachine.Tests.csprojResolveAssemblyReference.cache
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\obj\Debug\Ingenio.VendingMachine.Tests.dll
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\obj\Debug\Ingenio.VendingMachine.Tests.pdb
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\bin\Debug\Ingenio.VendingMachine.exe
+c:\users\freezn\documents\visual studio 2015\Projects\ConsoleApplication4\Ingenio.VendingMachine.Tests\bin\Debug\Ingenio.VendingMachine.pdb
